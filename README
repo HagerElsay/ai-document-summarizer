@@ -1,0 +1,55 @@
+# AI Document Summarizer
+
+A Python-based document summarization tool designed to extract important information from text, with a focus on healthcare documents.
+
+## Features
+
+- Reads documents from a text file
+- Cleans and processes text
+- Splits documents into sentences
+- Scores sentences by importance
+- Uses healthcare-related keywords
+- Supports Short, Medium, and Long summaries
+- Displays document statistics
+- Prepared for integration with an AI language model
+
+## Healthcare Use Case
+
+The project demonstrates how AI-based text processing could help healthcare organizations quickly identify important information from large documents.
+
+Example healthcare topics include:
+
+- Patient information
+- Diagnosis
+- Treatment
+- Medication
+- Clinical information
+- Hospital data
+- Privacy
+
+## Example
+
+Input:
+
+Artificial intelligence is changing healthcare by helping hospitals analyze large amounts of medical data.
+
+Output:
+
+AI systems can identify patterns in patient records, assist doctors with diagnosis, reduce administrative work, and improve hospital efficiency.
+
+## Technologies
+
+- Python
+- Regular Expressions
+- Text Processing
+- OpenAI API integration
+
+## Current Limitation
+
+The OpenAI API integration was tested successfully, but API usage requires an account with available API credits.
+
+For portfolio testing, the project currently includes a local summarization system that does not require paid API access.
+
+## Project Status
+
+Completed — portfolio prototype.
