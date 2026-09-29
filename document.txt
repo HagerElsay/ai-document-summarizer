@@ -1,0 +1,1 @@
+Artificial intelligence is changing healthcare by helping hospitals analyze large amounts of medical data. AI systems can identify patterns in patient records, assist doctors with diagnosis, reduce administrative work, and improve hospital efficiency. However, healthcare AI must protect patient privacy and ensure that sensitive medical information is handled securely.
